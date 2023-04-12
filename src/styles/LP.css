@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+.hero{
+    height: 100vh;
+    background-image: url('../images/homeimage.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logoimg{
+    width: 200px;
+    height: 50px;
+    background-image: url('../images/inwoodlogo.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.shop{
+    border: 1px solid black;
+    width: 100px;
+    height: 50px;
+    color: #fff;
+    background-color: #07484A;
+}
+.img-chair{
+    background-image: url('../images/img-chair.png') ;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.img-1{
+    background-image: url('../images/b2223afc43a2496d10c1585a1a12e46c.png') ;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.img-2{
+    background-image: url('../images/img-chair.png') ;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.img-3{
+    background-image: url('../images/14827546cb9c959224ea1b8e8b22deff.png') ;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.img-4{
+    background-image: url('../images/cebffd4ad133db86f7606c01917477bc.png') ;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
